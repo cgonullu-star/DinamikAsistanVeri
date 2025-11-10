@@ -1,0 +1,31 @@
+{
+  "latest_version": "2025.2",
+  "notes": "Akademik ve Meslek Lisesi plan profilleri eklendi.",
+  "plan_profiles": {
+    "9. Sınıf (Genel - 4 Saat)": {
+      "sheet_name": "9_Sinif",
+      "weekly_hours": 4,
+      "blocks": {"orientation": 4, "revision": 16, "sbp": 6}
+    },
+    "10. Sınıf (Akademik Lise - 4 Saat)": {
+      "sheet_name": "10_Sinif_Akademik",
+      "weekly_hours": 4,
+      "blocks": {"orientation": 4, "revision": 16, "sbp": 6}
+    },
+    "10. Sınıf (Meslek Lisesi - 2 Saat)": {
+      "sheet_name": "10_Sinif_Meslek",
+      "weekly_hours": 2,
+      "blocks": {"orientation": 2, "revision": 8, "sbp": 2}
+    },
+    "11. Sınıf (Akademik Lise - 4 Saat)": {
+      "sheet_name": "11_Sinif_Akademik",
+      "weekly_hours": 4,
+      "blocks": {"orientation": 4, "revision": 16, "sbp": 6}
+    },
+    "11. Sınıf (Meslek Lisesi - 2 Saat)": {
+      "sheet_name": "11_Sinif_Meslek",
+      "weekly_hours": 2,
+      "blocks": {"orientation": 2, "revision": 8, "sbp": 2}
+    }
+  }
+}
