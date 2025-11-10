@@ -1,7 +1,12 @@
 {
-  "latest_version": "2025.3",
-  "notes": "Kazanım gğncellendi.",
+  "latest_version": "2025.7.0",
+  "notes": "v7.0 - Akıllı Profilleme eklendi. Meslek Lisesi ve Hazırlık Sınıfı profilleri eklendi. Akıllı Takvim (Belirli Günler) eklendi.",
   "plan_profiles": {
+    "Hazırlık Sınıfı (Yoğun Program)": {
+      "sheet_name": "Hazirlik_Sinifi",
+      "weekly_hours": 20,
+      "blocks": {"orientation": 10, "revision": 40, "sbp": 10}
+    },
     "9. Sınıf (Genel - 4 Saat)": {
       "sheet_name": "9_Sinif",
       "weekly_hours": 4,
